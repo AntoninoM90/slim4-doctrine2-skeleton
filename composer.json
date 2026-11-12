@@ -36,7 +36,7 @@
         "doctrine/doctrine-bundle": "^2.13",
         "doctrine/orm": "^2",
         "monolog/monolog": "^3.12.1",
-        "php-di/php-di": "^6.4|^7.0",
+        "php-di/php-di": "^7.1.1",
         "slim/psr7": "^1.8.0",
         "slim/slim": "^4.15"
     },
