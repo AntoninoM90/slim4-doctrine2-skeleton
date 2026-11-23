@@ -37,7 +37,7 @@
         "doctrine/orm": "^2",
         "monolog/monolog": "^3.13.0",
         "php-di/php-di": "^7.1.1",
-        "slim/psr7": "^1.8.0",
+        "slim/psr7": "^1.8.1",
         "slim/slim": "^4.15"
     },
     "require-dev": {
